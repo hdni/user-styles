@@ -7,6 +7,6 @@ A few of the user styles I use. [See a preview of 4chan Clean](http://hdni.githu
 * Give the style a name and paste the contents of the user style you want to install.
 
 ## Notes
-* 4chan Glint is meant to be used with [Seaweed's fork of 4chan X v3](https://github.com/seaweedchan/4chan-x). My 4chan settings are included; if something doesn't work or doesn't look right, it's most likely because I don't use it.
+* 4chan v3 is meant to be used with [Seaweed's fork of 4chan X v3](https://github.com/seaweedchan/4chan-x). My 4chan settings are included; if something doesn't work or doesn't look right, it's most likely because I don't use it.
 * Both 4chan Ribbon and Clean are only compatible with 4chan X v2.
 * The AnandTech user style is made to suit my usage of the site, it may be incomplete or unsatisfying for you.
